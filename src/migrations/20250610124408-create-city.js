@@ -28,3 +28,4 @@ module.exports = {
   }
 };
 // to show table in mysql what we have to do is sync it with db 
+// 
